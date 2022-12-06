@@ -5,6 +5,7 @@
 <h1 align="center">
   Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> I'm Swastik Patro 
 </h2>
+
 <p align="center" display="block">
   <img src="https://readme-typing-svg.herokuapp.com/?size=30&duration=5001&vCenter=true&center=true&font=Fira+Code&pause=1000&color=FF6A00&width=700&lines=This+is+Swastik+Patro;+Frontend+Web+Developer;Currently+Creating+Projects+Using+React;" alt="Typing SVG" />
 </p>
@@ -12,8 +13,6 @@
 <h3 align="center"></h3>
 
 <img align="right" src="https://media4.giphy.com/media/7NoNw4pMNTvgc/giphy.gif?cid=ecf05e47cw2gjlybq6o7tucmb4ndw14ta97r3ozorwycbhnd&rid=giphy.gif&ct=g" alt="coding" width="300" height="300" />
-
-
 
 <h3>Here are some facts about me:</h3>
 
@@ -30,6 +29,7 @@
 <!-- <a href="https://srejitk.hashnode.dev/"><img src="https://img.shields.io/badge/Hashnode-0f56b3?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode" align="left" /> </a> -->
 <a href="https://www.linkedin.com/in/swastik-patro-2a54bb19b/"><img src="https://img.shields.io/badge/LinkedIn-223189?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" align="left"/></a>
 
+<br />
 <br />
 
 # TechStack <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 30px>
@@ -52,6 +52,7 @@
   <img src="https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E" alt="Vite" /> -->
 
 </p>
+
 
 ## 🔥 Streak Stats
 
