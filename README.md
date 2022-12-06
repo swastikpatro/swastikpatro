@@ -2,7 +2,7 @@
   Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> I'm Swastik Patro 
 </h2>
 <p align="center" display="block">
-  <img src="https://readme-typing-svg.herokuapp.com/?size=30&duration=5001&vCenter=true&center=true&font=Fira+Code&pause=1000&color=FF6A00&width=700&lines=This+is+Swastik+Patro;+Frontend+Web+developer;Currently+Creating+Projects+Using+React;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?size=30&duration=5001&vCenter=true&center=true&font=Fira+Code&pause=1000&color=FF6A00&width=700&lines=This+is+Swastik+Patro;+Frontend+Web+Developer;Currently+Creating+Projects+Using+React;" alt="Typing SVG" />
 </p>
 
 <h3 align="center"></h3>
